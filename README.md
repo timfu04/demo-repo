@@ -1,11 +1,8 @@
-# Header
+# Header 
 
-Hello Github
+Hello World
 
-Bye Github
+## Subheader
 
-# Subheader
+Bye World
 
-# Local Development 
-
-1. Open index.html in your browser !
